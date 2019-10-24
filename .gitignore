@@ -1,0 +1,6 @@
+createtiff
+*.tif
+CMakeCache.txt
+CMakeFiles
+MAkefile
+cmake_install.cmake
